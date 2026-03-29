@@ -15,7 +15,7 @@ I’m **Vedang** (`Vedang`, reg no `24BAI10789`). I wrote a few small shell scri
 
 ## How to run the scripts
 
-From the repo directory (`/home/krishna/oss-audit-24BCE10678`):
+From the repo directory (`https://github.com/vedanganand75-crypto/LINUX/tree/main`):
 
 1. Make them executable (one-time):
    - `chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh`
