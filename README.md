@@ -11,7 +11,7 @@ I’m **Vedang** (`Vedang`, reg no `24BAI10789`). I wrote a few small shell scri
 - `script3.sh` - Disk and Permission Auditor for a few common folders
 - `script4.sh` - Log file analyzer (counts keyword matches)
 - `script5.sh` - Open Source Manifesto Generator (interactive)
-- `manifesto_krishna.txt` - Example output from the manifesto generator
+- `manifesto_Vedang.txt` - Example output from the manifesto generator
 
 ## How to run the scripts
 
